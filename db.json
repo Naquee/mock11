@@ -1,0 +1,13 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Gertrudis Tatterton",
+        "age": 18,
+        "gender":"male",
+        "country":"India",
+        "profession":"Teacher"
+      }
+     
+    ]
+  }
